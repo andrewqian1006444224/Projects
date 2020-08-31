@@ -1,7 +1,5 @@
 //Storage controller
 
-//test
-//waidnawiodnawiodnwaeiodnwa
 const storageManager = (function () {
   return {
     storeItem: function (item) {
